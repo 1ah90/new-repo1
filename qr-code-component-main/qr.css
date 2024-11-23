@@ -14,6 +14,7 @@
 .main{
     background-color: var(--Color-1); 
     height: 100vh;
+    width: 100%;
 }
 .cart{
     background-color: white;
