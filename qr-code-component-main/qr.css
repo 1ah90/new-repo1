@@ -48,8 +48,3 @@
     background-size: cover;
 }
 
-@media (min-width :1500px) {
-    .main{
-        width: 1440px;
-    }
-}
